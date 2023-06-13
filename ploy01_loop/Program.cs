@@ -29,7 +29,7 @@ namespace ConsoleApp_First
             }
 
 
-            string[] brandTV = { "LG", "SONY", "SAMSUNG", "TCL", "JVC" };
+            string[] brandTV = { "LG", "SONY", "SAMSUNG", "TCL", "JVC"};
 
             foreach (string television in brandTV)
             {
