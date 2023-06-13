@@ -57,6 +57,7 @@ namespace ConsoleApp_First
                 while (iterator1 < 5);
 
                 Console.WriteLine("-----------------------------Do/WhlieLoop------------------------------------");//Do/WhlieLoop
+                Console.WriteLine("by ploy");//Do/WhlieLoop
             }
         }
 
