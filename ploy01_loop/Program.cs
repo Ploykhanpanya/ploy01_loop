@@ -58,6 +58,7 @@ namespace ConsoleApp_First
 
                 Console.WriteLine("-----------------------------Do/WhlieLoop------------------------------------");//Do/WhlieLoop
                 Console.WriteLine("by ploy");//Do/WhlieLoop
+                Console.ReadKey();
             }
         }
 
